@@ -9,7 +9,7 @@ Built by **Team U Recognise** for **SANKALP by Satin Finserv: The Climate Editio
 
 > **Prototype note:** All model outputs in this version are **mock data** that demonstrate the workflow. The real machine learning model is planned for the next phase.
 
-**Live Demo:**  https://app.netlify.com/projects/woodwitness/deploys/6ac1347db6ec63fdaf9f8238
+**Live Demo:** https://woodwitness.netlify.app/
 
 ## The problem
 
