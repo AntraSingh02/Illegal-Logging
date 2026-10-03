@@ -7,8 +7,6 @@ WoodWitness is a web-based prototype that checks whether a timber shipment's cla
 
 Built by **Team U Recognise** for **SANKALP by Satin Finserv: The Climate Edition** (Theme: Climate Tech).
 
-**Live demo:** [add your Netlify link here]
-
 > **Prototype note:** All model outputs in this version are **mock data** that demonstrate the workflow. The real machine learning model is planned for the next phase.
 
 ---
