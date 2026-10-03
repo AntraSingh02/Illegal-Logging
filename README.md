@@ -45,10 +45,4 @@ Trees absorb the chemistry of their surroundings, mainly from local rainfall and
 - Demo presets: a false claim and a consistent claim
 
 
-## Try it
 
-1. Open the live demo and select **Tutorial** for a guided walkthrough.
-2. Select **Demo: false claim**, then **Verify claim**.
-3. Select **Show possible origins** to see where the wood could really be from.
-
-Or run it locally: download `index.html` and open it in a browser.
